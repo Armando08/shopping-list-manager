@@ -1,1 +1,1 @@
-# shoping-list-manager
+# Shopping list manager in REACT NATIVE
